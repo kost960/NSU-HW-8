@@ -7,4 +7,4 @@ for i in range(2, N+1):
     else:
         lst.append(i)
 for i in range(0, len(lst)):
-    print(int(lst[i]))
+    print(lst[i])
